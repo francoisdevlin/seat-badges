@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<defs><clipPath id="t"><circle cx="32" cy="32" r="29"/></clipPath></defs>
+<circle cx="32" cy="32" r="29" fill="#FFF3DE"/>
+<g clip-path="url(#t)"><rect x="0" y="0" width="64" height="64" fill="#4DA89B"/><path d="M-4,44 Q8,40.5 16,44 T32,44 T48,44 T68,44 L68,70 L-4,70 Z" fill="#FFF3DE" stroke="#393047" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><rect x="25" y="20" width="14" height="27" fill="#E97B69" stroke="#393047" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><rect x="15" y="9.5" width="34" height="13" rx="1.5" fill="#E97B69" stroke="#393047" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><line x1="26.5" y1="30" x2="37.5" y2="30" stroke="#393047" stroke-width="1.5"/><line x1="26.5" y1="37.5" x2="37.5" y2="37.5" stroke="#393047" stroke-width="1.5"/><circle cx="32" cy="16" r="4.2" fill="#FFF3DE" stroke="#393047" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<circle cx="32" cy="32" r="29" fill="none" stroke="#393047" stroke-width="3.5"/>
+</svg>

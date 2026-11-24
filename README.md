@@ -10,7 +10,10 @@ can see who suggested what.
 | ![Drydock](https://github.com/francoisdevlin/seat-badges/blob/main/32x32/drydock.png?raw=true) | Drydock | engine |
 | ![Promenade](https://github.com/francoisdevlin/seat-badges/blob/main/32x32/promenade.png?raw=true) | Promenade | content |
 | ![Fish Market](https://github.com/francoisdevlin/seat-badges/blob/main/32x32/fish-market.png?raw=true) | Fish Market | assets |
+| ![North Pier](https://github.com/francoisdevlin/seat-badges/blob/main/32x32/north-pier.png?raw=true) | North Pier | code review |
+| ![South Pier](https://github.com/francoisdevlin/seat-badges/blob/main/32x32/south-pier.png?raw=true) | South Pier | test review |
 | ![Train Station](https://github.com/francoisdevlin/seat-badges/blob/main/32x32/train-station.png?raw=true) | Train Station | CI/CD |
+| ![Chart Room](https://github.com/francoisdevlin/seat-badges/blob/main/32x32/chart-room.png?raw=true) | Chart Room | control centre |
 
 ## The badge line
 
